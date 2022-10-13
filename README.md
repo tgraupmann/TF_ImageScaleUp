@@ -6,7 +6,7 @@ The `esrgan-tf2` model works amazingly well, out of the box. Take a look at the 
 
 ![image_1](images/image_1.png)
 
-* Open the `Google Colab Project Notebook` - [Test_esrgan_tf2.ipynb](Test_esrgan_tf2.ipynb) at [Open at Google Colab](https://colab.research.google.com/github/tgraupmann/TF_ImageScaleUp/blob/main/Test_esrgan_tf2.ipynb)
+* Open the `Google Colab Project Notebook` - [Test_esrgan_tf2.ipynb](Test_esrgan_tf2.ipynb) - [Open Test_esrgan_tf2.ipynb at Google Colab](https://colab.research.google.com/github/tgraupmann/TF_ImageScaleUp/blob/main/Test_esrgan_tf2.ipynb)
 
 ### Work in Progress
 
