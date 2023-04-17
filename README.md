@@ -8,7 +8,7 @@ The `esrgan-tf2` model works amazingly well, out of the box. Take a look at the 
 
 * [High Fidelity Image Generation Using Diffusion Models](https://ai.googleblog.com/2021/07/high-fidelity-image-generation-using.html)
 
-* [esrgan-tf2](https://tfhub.dev/captain-pool/esrgan-tf2/1)
+* AI Model - [esrgan-tf2](https://tfhub.dev/captain-pool/esrgan-tf2/1)
 
 ## Screenshot
 
