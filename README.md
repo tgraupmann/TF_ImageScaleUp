@@ -10,6 +10,8 @@ The `esrgan-tf2` model works amazingly well, out of the box. Take a look at the 
 
 * AI Model - [esrgan-tf2](https://tfhub.dev/captain-pool/esrgan-tf2/1)
 
+* [UpscalerJS](https://upscalerjs.com/) - Upscale images in JavaScript
+
 ## Screenshot
 
 ![image_1](images/image_1.png)
