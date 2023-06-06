@@ -19,6 +19,7 @@ python -m pip install --upgrade pip
 pip uninstall tensorflow
 conda install tensorflow
 conda install -c conda-forge tensorflow-hub
+pip install --no-deps tensorflowjs
 ```
 
 * [TFJS Python Environment Setup Instructions](https://github.com/tgraupmann/HTML5_AIBoxCamera)
