@@ -17,6 +17,8 @@ The `esrgan-tf2` model works amazingly well, out of the box. Take a look at the 
 ```cmd
 python -m pip install --upgrade pip
 pip uninstall tensorflow
+pip uninstall tensorflowjs
+pip uninstall tensorflow-hub
 conda install tensorflow
 conda install -c conda-forge tensorflow-hub
 pip install --no-deps tensorflowjs
