@@ -12,7 +12,7 @@ The `esrgan-tf2` model works amazingly well, out of the box. Take a look at the 
 
 * [UpscalerJS](https://upscalerjs.com/) - Upscale images in JavaScript
 
-* [Miniconda](https://docs.conda.io/en/latest/miniconda.html)
+* [Miniconda](https://docs.conda.io/en/latest/miniconda.html) - Run commands within the Anaconda Prompt (miniconda3)
 
 ```cmd
 python -m pip install --upgrade pip
