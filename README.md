@@ -25,7 +25,7 @@ sudo apt install python3-pip
 python3 -m pip install --upgrade pip
 pip3 install --upgrade pip
 sudo apt install python3-venv
-pip3 install tensorflow tensorflowjs tensorflow-hub
+pip3 install tensorflow tensorflowjs tensorflow-hub Pillow
 ```
 
 ### Windows
@@ -37,7 +37,7 @@ python -m pip install --upgrade pip
 pip3 uninstall tensorflow tensorflowjs tensorflow-hub jax
 conda install tensorflow
 conda install -c conda-forge tensorflow-hub
-pip3 install tensorflow tensorflowjs tensorflow-hub
+pip3 install tensorflow tensorflowjs tensorflow-hub Pillow
 ```
 
 * [TFJS Python Environment Setup Instructions](https://github.com/tgraupmann/HTML5_AIBoxCamera)
