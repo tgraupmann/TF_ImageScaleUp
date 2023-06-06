@@ -18,6 +18,7 @@ The `esrgan-tf2` model works amazingly well, out of the box. Take a look at the 
 python -m pip install --upgrade pip
 pip uninstall tensorflow
 conda install tensorflow
+conda install -c conda-forge tensorflow-hub
 ```
 
 * [TFJS Python Environment Setup Instructions](https://github.com/tgraupmann/HTML5_AIBoxCamera)
