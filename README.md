@@ -34,7 +34,7 @@ pip3 install tensorflow tensorflowjs tensorflow-hub
 
 ```cmd
 python -m pip install --upgrade pip
-pip uninstall tensorflow tensorflowjs tensorflow-hub
+pip3 uninstall tensorflow tensorflowjs tensorflow-hub jax
 conda install tensorflow
 conda install -c conda-forge tensorflow-hub
 pip install --no-deps tensorflowjs
