@@ -25,14 +25,9 @@ sudo apt install python3-pip
 python3 -m pip install --upgrade pip
 pip3 install --upgrade pip
 sudo apt install python3-venv
-conda install tensorflow
-conda install -c conda-forge tensorflow-hub
-pip install tensorflowjs
-```
-
-Current issue:
-```sh
-pip3 install TensorRT
+pip3 install tensorflow
+pip3 install tensorflowjs
+pip3 install tensorflow-hub
 ```
 
 ### Windows
