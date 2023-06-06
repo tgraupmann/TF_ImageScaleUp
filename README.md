@@ -28,7 +28,7 @@ sudo apt install python3-venv
 pip3 install tensorflow tensorflowjs tensorflow-hub
 ```
 
-### Windows (archive these steps, TensorFlow doesn't seem to work with Python in native Windows)
+### Windows
 
 * [Miniconda](https://docs.conda.io/en/latest/miniconda.html) - Run commands within the Anaconda Prompt (miniconda3)
 
@@ -37,7 +37,7 @@ python -m pip install --upgrade pip
 pip3 uninstall tensorflow tensorflowjs tensorflow-hub jax
 conda install tensorflow
 conda install -c conda-forge tensorflow-hub
-pip install --no-deps tensorflowjs
+pip3 install tensorflow tensorflowjs tensorflow-hub
 ```
 
 * [TFJS Python Environment Setup Instructions](https://github.com/tgraupmann/HTML5_AIBoxCamera)
