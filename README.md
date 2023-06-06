@@ -25,20 +25,16 @@ sudo apt install python3-pip
 python3 -m pip install --upgrade pip
 pip3 install --upgrade pip
 sudo apt install python3-venv
-pip3 install tensorflow
-pip3 install tensorflowjs
-pip3 install tensorflow-hub
+pip3 install tensorflow tensorflowjs tensorflow-hub
 ```
 
-### Windows
+### Windows (archive these steps, TensorFlow doesn't seem to work with Python in native Windows)
 
 * [Miniconda](https://docs.conda.io/en/latest/miniconda.html) - Run commands within the Anaconda Prompt (miniconda3)
 
 ```cmd
 python -m pip install --upgrade pip
-pip uninstall tensorflow
-pip uninstall tensorflowjs
-pip uninstall tensorflow-hub
+pip uninstall tensorflow tensorflowjs tensorflow-hub
 conda install tensorflow
 conda install -c conda-forge tensorflow-hub
 pip install --no-deps tensorflowjs
