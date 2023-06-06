@@ -12,6 +12,8 @@ The `esrgan-tf2` model works amazingly well, out of the box. Take a look at the 
 
 * [UpscalerJS](https://upscalerjs.com/) - Upscale images in JavaScript
 
+* [TFJS Python Environment Setup Instructions](https://github.com/tgraupmann/HTML5_AIBoxCamera)
+
 ## Screenshot
 
 ![image_1](images/image_1.png)
