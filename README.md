@@ -12,6 +12,25 @@ The `esrgan-tf2` model works amazingly well, out of the box. Take a look at the 
 
 * [UpscalerJS](https://upscalerjs.com/) - Upscale images in JavaScript
 
+* [Setup WSL2 and Python](http://tagenigma.com/blog/2020/11/24/windows-subsystem-for-linux-installation-guide-for-windows-10/) - TensorFlow is missing dependencies to work on Windows (TensorFlow Decision Forests)
+
+* [Get started using Python for web development on Windows](https://learn.microsoft.com/en-us/windows/python/web-frameworks)
+
+### WSL2
+
+```sh
+sudo apt update && sudo apt upgrade
+sudo apt upgrade python3
+sudo apt install python3-pip
+python3 -m pip install --upgrade pip
+sudo apt install python3-venv
+conda install tensorflow
+conda install -c conda-forge tensorflow-hub
+pip install tensorflowjs
+```
+
+### Windows
+
 * [Miniconda](https://docs.conda.io/en/latest/miniconda.html) - Run commands within the Anaconda Prompt (miniconda3)
 
 ```cmd
