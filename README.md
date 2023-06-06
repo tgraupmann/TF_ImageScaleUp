@@ -30,6 +30,11 @@ conda install -c conda-forge tensorflow-hub
 pip install tensorflowjs
 ```
 
+Current issue:
+```sh
+pip3 install TensorRT
+```
+
 ### Windows
 
 * [Miniconda](https://docs.conda.io/en/latest/miniconda.html) - Run commands within the Anaconda Prompt (miniconda3)
