@@ -23,6 +23,7 @@ sudo apt update && sudo apt upgrade
 sudo apt upgrade python3
 sudo apt install python3-pip
 python3 -m pip install --upgrade pip
+pip3 install --upgrade pip
 sudo apt install python3-venv
 conda install tensorflow
 conda install -c conda-forge tensorflow-hub
